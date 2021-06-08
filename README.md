@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Development side
 - 🌱 I’m currently learning ...Web technologies
 - 💞️ I’m looking to collaborate on ...HTMl java and jquery
-- 📫 How to reach me ...
+- 📫 How to reach me ...catch me on whatsup-8297079099
 
 <!---
 bhogaraopappu/bhogaraopappu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
